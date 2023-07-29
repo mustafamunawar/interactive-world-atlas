@@ -132,7 +132,7 @@ function load_data(cb )
       }
       cards.push(
       <Card sx={{display:'flex', cursor:'pointer', p:3, mt:2,  border:app.cur_country==entry.cca2?'2px solid blue':undefined  }  }  onClick={function(e){app.set_cur_country(entry.cca2)} } >
-        <div  style={{width:50, height:20, backgroundSize:'contain', backgroundRepeat:'no-repeat', backgroundImage:'url(flags/'+entry.cca3+'.svg)'}}></div>
+        <div  style={{width:50, height:20, backgroundSize:'contain', backgroundRepeat:'no-repeat', backgroundImage:'url(flags/'+entry.cca3.toLowerCase()+'.svg)'}}></div>
          {entry.name}
       </Card> )
     });
