@@ -1,12 +1,12 @@
 {
   "files": {
-    "main.js": "/interactive-world-atlas/static/js/main.af82c43e.js",
-    "static/js/787.a941d564.chunk.js": "/interactive-world-atlas/static/js/787.a941d564.chunk.js",
-    "index.html": "/interactive-world-atlas/index.html",
-    "main.af82c43e.js.map": "/interactive-world-atlas/static/js/main.af82c43e.js.map",
-    "787.a941d564.chunk.js.map": "/interactive-world-atlas/static/js/787.a941d564.chunk.js.map"
+    "main.js": "./static/js/main.c089bf04.js",
+    "static/js/787.a941d564.chunk.js": "./static/js/787.a941d564.chunk.js",
+    "index.html": "./index.html",
+    "main.c089bf04.js.map": "./static/js/main.c089bf04.js.map",
+    "787.a941d564.chunk.js.map": "./static/js/787.a941d564.chunk.js.map"
   },
   "entrypoints": [
-    "static/js/main.af82c43e.js"
+    "static/js/main.c089bf04.js"
   ]
 }
